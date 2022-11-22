@@ -1,0 +1,24 @@
+.background {
+    width: 100%;
+    height: 30px;
+    background-image: linear-gradient(180deg, rgb(245, 100, 100), rgb(255,255,255))
+}
+.background-2 {
+    width: 100%;
+    height: 30px;
+    background-image: linear-gradient(0deg, rgb(245, 100, 100), rgb(255,255,255))
+}
+
+h1 {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.curry-button {
+    background-image: url(./images/Thai-Green-Curry-square-FS-500x500.jpg);
+    height: 125px;
+    inline-size: auto;
+    width: 125px;
+}
+img {
+    max-width: 30%;
+}
